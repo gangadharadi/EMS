@@ -1,0 +1,47 @@
+c:\users\hp\documents\visual studio 2010\Projects\Employee Management System in Csharp\Employee Management System in Csharp\obj\x86\Debug\Employee_Management_System_in_Csharp.frmHome.resources
+c:\users\hp\documents\visual studio 2010\Projects\Employee Management System in Csharp\Employee Management System in Csharp\obj\x86\Debug\Employee_Management_System_in_Csharp.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2010\Projects\Employee Management System in Csharp\Employee Management System in Csharp\obj\x86\Debug\Employee Management System in Csharp.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2010\Projects\Employee Management System in Csharp\Employee Management System in Csharp\bin\Debug\Employee Management System in Csharp.exe
+c:\users\hp\documents\visual studio 2010\Projects\Employee Management System in Csharp\Employee Management System in Csharp\bin\Debug\Employee Management System in Csharp.pdb
+c:\users\hp\documents\visual studio 2010\Projects\Employee Management System in Csharp\Employee Management System in Csharp\obj\x86\Debug\Employee Management System in Csharp.exe
+c:\users\hp\documents\visual studio 2010\Projects\Employee Management System in Csharp\Employee Management System in Csharp\obj\x86\Debug\Employee Management System in Csharp.pdb
+C:\Users\hp\documents\visual studio 2010\Projects\Employee Management System in Csharp\Employee Management System in Csharp\obj\x86\Debug\Employee Management System in Csharp.csprojResolveAssemblyReference.cache
+C:\Users\hp\documents\visual studio 2010\Projects\Employee Management System in Csharp\Employee Management System in Csharp\obj\x86\Debug\Employee_Management_System_in_Csharp.frmlogin.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Employee Management System in Csharp\Employee Management System in Csharp\obj\x86\Debug\Employee_Management_System_in_Csharp.frmemployee.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Employee Management System in Csharp\Employee Management System in Csharp\obj\x86\Debug\Employee_Management_System_in_Csharp.frmsalary.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Employee Management System in Csharp\Employee Management System in Csharp\obj\x86\Debug\Employee_Management_System_in_Csharp.frmview.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Employee Management System in Csharp\Employee Management System in Csharp\bin\Debug\db_employee.mdf
+C:\Users\hp\documents\visual studio 2010\Projects\Employee Management System in Csharp\Employee Management System in Csharp\bin\Debug\db_employee_log.ldf
+C:\Users\hp\documents\visual studio 2010\Projects\Employee Management System in Csharp\Employee Management System in Csharp\bin\Debug\Employee Management System in Csharp.exe.config
+C:\Users\gangu\Downloads\EMS\Employee Management System in Csharp\Employee Management System in Csharp\obj\x86\Debug\Employee Management System in Csharp.csproj.AssemblyReference.cache
+C:\Users\gangu\Downloads\EMS\Employee Management System in Csharp\Employee Management System in Csharp\obj\x86\Debug\Employee Management System in Csharp.exe
+C:\Users\gangu\Downloads\EMS\Employee Management System in Csharp\Employee Management System in Csharp\obj\x86\Debug\Employee Management System in Csharp.pdb
+C:\Users\gangu\Downloads\EMS\Employee Management System in Csharp\Employee Management System in Csharp\bin\Debug\db_employee.mdf
+C:\Users\gangu\Downloads\EMS\Employee Management System in Csharp\Employee Management System in Csharp\bin\Debug\db_employee_log.ldf
+C:\Users\gangu\Downloads\EMS\Employee Management System in Csharp\Employee Management System in Csharp\bin\Debug\Employee Management System in Csharp.exe.config
+C:\Users\gangu\Downloads\EMS\Employee Management System in Csharp\Employee Management System in Csharp\bin\Debug\Employee Management System in Csharp.exe
+C:\Users\gangu\Downloads\EMS\Employee Management System in Csharp\Employee Management System in Csharp\bin\Debug\Employee Management System in Csharp.pdb
+C:\Users\gangu\Downloads\EMS\Employee Management System in Csharp\Employee Management System in Csharp\obj\x86\Debug\Employee_Management_System_in_Csharp.frmemployee.resources
+C:\Users\gangu\Downloads\EMS\Employee Management System in Csharp\Employee Management System in Csharp\obj\x86\Debug\Employee_Management_System_in_Csharp.frmHome.resources
+C:\Users\gangu\Downloads\EMS\Employee Management System in Csharp\Employee Management System in Csharp\obj\x86\Debug\Employee_Management_System_in_Csharp.frmlogin.resources
+C:\Users\gangu\Downloads\EMS\Employee Management System in Csharp\Employee Management System in Csharp\obj\x86\Debug\Employee_Management_System_in_Csharp.frmsalary.resources
+C:\Users\gangu\Downloads\EMS\Employee Management System in Csharp\Employee Management System in Csharp\obj\x86\Debug\Employee_Management_System_in_Csharp.frmview.resources
+C:\Users\gangu\Downloads\EMS\Employee Management System in Csharp\Employee Management System in Csharp\obj\x86\Debug\Employee_Management_System_in_Csharp.Properties.Resources.resources
+C:\Users\gangu\Downloads\EMS\Employee Management System in Csharp\Employee Management System in Csharp\obj\x86\Debug\Employee Management System in Csharp.csproj.GenerateResource.cache
+C:\Users\gangu\Downloads\EMS\Employee Management System in Csharp\Employee Management System in Csharp\obj\x86\Debug\Employee Management System in Csharp.csproj.CoreCompileInputs.cache
+C:\Users\gangu\EMS\Employee Management System in Csharp\Employee Management System\bin\Debug\db_employee.mdf
+C:\Users\gangu\EMS\Employee Management System in Csharp\Employee Management System\bin\Debug\db_employee_log.ldf
+C:\Users\gangu\EMS\Employee Management System in Csharp\Employee Management System\bin\Debug\Employee Management System in Csharp.exe.config
+C:\Users\gangu\EMS\Employee Management System in Csharp\Employee Management System\bin\Debug\Employee Management System in Csharp.exe
+C:\Users\gangu\EMS\Employee Management System in Csharp\Employee Management System\bin\Debug\Employee Management System in Csharp.pdb
+C:\Users\gangu\EMS\Employee Management System in Csharp\Employee Management System\obj\x86\Debug\Employee Management System in Csharp.csproj.AssemblyReference.cache
+C:\Users\gangu\EMS\Employee Management System in Csharp\Employee Management System\obj\x86\Debug\Employee_Management_System_in_Csharp.frmemployee.resources
+C:\Users\gangu\EMS\Employee Management System in Csharp\Employee Management System\obj\x86\Debug\Employee_Management_System_in_Csharp.frmHome.resources
+C:\Users\gangu\EMS\Employee Management System in Csharp\Employee Management System\obj\x86\Debug\Employee_Management_System_in_Csharp.frmlogin.resources
+C:\Users\gangu\EMS\Employee Management System in Csharp\Employee Management System\obj\x86\Debug\Employee_Management_System_in_Csharp.frmsalary.resources
+C:\Users\gangu\EMS\Employee Management System in Csharp\Employee Management System\obj\x86\Debug\Employee_Management_System_in_Csharp.frmview.resources
+C:\Users\gangu\EMS\Employee Management System in Csharp\Employee Management System\obj\x86\Debug\Employee_Management_System_in_Csharp.Properties.Resources.resources
+C:\Users\gangu\EMS\Employee Management System in Csharp\Employee Management System\obj\x86\Debug\Employee Management System in Csharp.csproj.GenerateResource.cache
+C:\Users\gangu\EMS\Employee Management System in Csharp\Employee Management System\obj\x86\Debug\Employee Management System in Csharp.csproj.CoreCompileInputs.cache
+C:\Users\gangu\EMS\Employee Management System in Csharp\Employee Management System\obj\x86\Debug\Employee Management System in Csharp.exe
+C:\Users\gangu\EMS\Employee Management System in Csharp\Employee Management System\obj\x86\Debug\Employee Management System in Csharp.pdb
